@@ -1,0 +1,41 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Dark Knight,Christopher Nolan,Christian Bale,United States,"July 16, 2020",2008,PG-13,152 min,"Action, Crime, Drama",Batman fights the Joker.
+s2,TV Show,Breaking Bad,Vince Gilligan,Bryan Cranston,United States,"January 1, 2019",2008,TV-MA,5 Seasons,"Drama, Crime",A chemistry teacher turns to drug manufacturing.
+s3,Movie,Parasite,Bong Joon-ho,Song Kang-ho,South Korea,"February 7, 2020",2019,R,132 min,"Drama, Thriller",A poor family schemes their way into a wealthy household.
+s4,TV Show,Money Heist,Álex Pina,Álvaro Morte,Spain,"July 19, 2017",2017,TV-MA,4 Seasons,"Crime, Drama, Thriller",A criminal mastermind plans the perfect heist.
+s5,Movie,Roma,Alfonso Cuarón,Yalitza Aparicio,Mexico,"December 14, 2018",2018,R,135 min,Drama,A domestic worker navigates life in 1970s Mexico City.
+s6,TV Show,Stranger Things,Matt Duffer,Millie Bobby Brown,United States,"July 15, 2016",2016,TV-14,4 Seasons,"Drama, Fantasy, Horror",Kids encounter supernatural forces in their town.
+s7,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,"November 27, 2019",2019,R,209 min,"Crime, Drama",An aging hitman reflects on his career.
+s8,Movie,Squid Game: The Challenge,,,South Korea,"November 22, 2023",2023,TV-MA,1 Season,Reality TV,A competition show inspired by the hit drama.
+s9,TV Show,The Crown,Peter Morgan,Olivia Colman,United Kingdom,"November 4, 2016",2016,TV-MA,6 Seasons,"Drama, History",The reign of Queen Elizabeth II.
+s10,Movie,Marriage Story,Noah Baumbach,Adam Driver,United States,"December 6, 2019",2019,R,137 min,"Drama, Romance",A couple navigate a coast-to-coast divorce.
+s11,Movie,Okja,Bong Joon-ho,Tilda Swinton,South Korea,"June 28, 2017",2017,TV-14,120 min,"Adventure, Drama","A girl tries to save her best friend, a giant animal."
+s12,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,"December 1, 2017",2017,TV-MA,3 Seasons,"Crime, Drama, Mystery",Families in a German town are haunted by a child disappearance.
+s13,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,"December 21, 2018",2018,R,124 min,"Drama, Horror, Sci-Fi & Fantasy",Mysterious creatures drive people to suicide.
+s14,TV Show,Narcos,Chris Brancato,Pedro Pascal,"United States, Colombia","August 28, 2015",2015,TV-MA,3 Seasons,"Crime, Drama",The rise of cocaine kingpin Pablo Escobar.
+s15,Movie,Klaus,Sergio Pablos,Jason Schwartzman,"United States, Spain","November 15, 2019",2019,PG,96 min,"Animation, Family",The story behind Santa Claus.
+s16,TV Show,Sex Education,Laurie Nunn,Asa Butterfield,United Kingdom,"January 11, 2019",2019,TV-MA,4 Seasons,"Comedy, Drama",A socially awkward teen gives sexual advice.
+s17,Movie,To All the Boys I've Loved Before,Susan Johnson,Lana Condor,United States,"August 17, 2018",2018,TV-14,99 min,"Comedy, Romance",A girl's secret love letters are sent out.
+s18,TV Show,Ozark,Bill Dubuque,Jason Bateman,United States,"July 21, 2017",2017,TV-MA,4 Seasons,"Crime, Drama, Thriller",A financial advisor launders money in the Ozarks.
+s19,Movie,The Trial of the Chicago 7,Aaron Sorkin,Eddie Redmayne,United States,"October 16, 2020",2020,R,130 min,"Drama, History",The trial of anti-Vietnam protesters.
+s20,TV Show,Emily in Paris,Darren Star,Lily Collins,"United States, France","October 2, 2020",2020,TV-MA,4 Seasons,"Comedy, Drama, Romance",An American woman moves to Paris for work.
+s21,Movie,Mank,David Fincher,Gary Oldman,United States,"December 4, 2020",2020,R,131 min,Drama,Herman Mankiewicz writes Citizen Kane.
+s22,TV Show,The Witcher,Lauren Schmidt Hissrich,Henry Cavill,United States,"December 20, 2019",2019,TV-MA,3 Seasons,"Action, Adventure, Drama",A mutant monster hunter navigates a dangerous world.
+s23,Movie,Hamilton,Thomas Kail,Lin-Manuel Miranda,United States,"July 3, 2020",2020,PG-13,160 min,"Music, Musical",The filmed stage production of the hit musical.
+s24,TV Show,You,Greg Berlanti,Penn Badgley,United States,"December 26, 2018",2018,TV-MA,4 Seasons,"Crime, Drama, Thriller",A stalker goes to extreme lengths for love.
+s25,Movie,The Half of It,Alice Wu,Leah Lewis,United States,"May 1, 2020",2020,PG-13,105 min,"Comedy, Drama, Romance",A shy student helps a jock woo the girl they both love.
+s26,TV Show,Mindhunter,David Fincher,Jonathan Groff,United States,"October 13, 2017",2017,TV-MA,2 Seasons,"Crime, Drama",FBI agents study the psychology of serial killers.
+s27,Movie,The Power of the Dog,Jane Campion,Benedict Cumberbatch,"United States, New Zealand","November 19, 2021",2021,R,126 min,"Drama, Western",A charismatic rancher torments his brother's new wife.
+s28,TV Show,Never Have I Ever,Mindy Kaling,Maitreyi Ramakrishnan,United States,"April 27, 2020",2020,TV-14,4 Seasons,"Comedy, Drama, Romance",A high school student deals with grief and romance.
+s29,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,"April 24, 2020",2020,R,116 min,"Action, Thriller",A black market mercenary rescues a kidnapped boy.
+s30,TV Show,Lupin,George Kay,Omar Sy,France,"January 8, 2021",2021,TV-MA,3 Seasons,"Action, Crime, Drama",A thief inspired by Arsène Lupin seeks revenge.
+s31,Movie,Don't Look Up,Adam McKay,Leonardo DiCaprio,United States,"December 24, 2021",2021,R,138 min,"Comedy, Drama, Sci-Fi & Fantasy",Two scientists try to warn the world of a comet.
+s32,TV Show,The Queen's Gambit,Scott Frank,Anya Taylor-Joy,United States,"October 23, 2020",2020,TV-MA,1 Season,Drama,An orphan becomes a chess prodigy.
+s33,Movie,Enola Holmes,Harry Bradbeer,Millie Bobby Brown,"United States, United Kingdom","September 23, 2020",2020,PG-13,123 min,"Action, Adventure, Comedy",Sherlock Holmes's sister searches for their mother.
+s34,TV Show,Bridgerton,Chris Van Dusen,Regé-Jean Page,United States,"December 25, 2020",2020,TV-MA,3 Seasons,"Drama, Romance",High society families compete for marriage prospects.
+s35,Movie,Klaus,Sergio Pablos,Jason Schwartzman,Spain,"November 15, 2020",2020,PG,96 min,"Animation, Family, Kids",An animated origin story of Santa Claus.
+s36,TV Show,Cobra Kai,Josh Heald,William Zabka,United States,"August 28, 2020",2020,TV-14,6 Seasons,"Action, Comedy, Drama",The Karate Kid sequel series.
+s37,Movie,The Midnight Sky,George Clooney,George Clooney,United States,"December 23, 2020",2020,PG-13,118 min,"Drama, Sci-Fi & Fantasy",A scientist tries to warn astronauts about a catastrophe.
+s38,TV Show,Squid Game,Hwang Dong-hyuk,Lee Jung-jae,South Korea,"September 17, 2021",2021,TV-MA,2 Seasons,"Action, Drama, International Movies, Thriller",Desperate people compete in deadly children's games.
+s39,Movie,Army of Thieves,Matthias Schweighöfer,Matthias Schweighöfer,"United States, Germany","October 29, 2021",2021,R,127 min,"Action, Comedy, Crime",A safecracker joins a heist crew across Europe.
+s40,TV Show,Arcane,Christian Linke,Ella Purnell,United States,"November 6, 2021",2021,TV-14,1 Season,"Action, Animation, Sci-Fi & Fantasy",Two sisters are torn apart in a world of magic and technology.
