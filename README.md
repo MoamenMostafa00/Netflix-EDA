@@ -152,3 +152,9 @@ outputs/
 - ✅ Write clean, organized Python code
 - ✅ Document my work so it's readable 
 
+## 📈 Future improvements 
+
+- ⚡Swap the static CSV for the Netflix API or a live scraper so the analysis always reflects current data
+- ⚡Replace the static charts with an interactive dashboard
+- ⚡Schedule the analysis to re-run automatically when new data is available
+- ⚡Enrich it with IMDB ratings and scores for more accurate results
