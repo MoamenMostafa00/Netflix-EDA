@@ -49,7 +49,7 @@ In order to analyse which path the business needs to invest in, we need to ask s
 ## 🗂️ Project structure
 
 ```
-Netflix-EDA/
+Netflix-EDA-main/
 │
 ├── data/
 │   └── netflix_titles.csv          ← dataset 

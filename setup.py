@@ -12,7 +12,7 @@ print("=" * 56)
 # Create folders
 print("\n\n  ── Step 1: Creating project folders ──────────────────\n")
 
-folders = ["data", "src", "outputs", "docs"]
+folders = ["data", "src", "outputs"]
 for folder in folders:
     os.makedirs(folder, exist_ok=True)
     print(f"   ✓ {folder}/")
@@ -83,9 +83,9 @@ if all_good and os.path.exists(DATA_PATH):
     print()
     print("""     Run the full analysis:
       → python run_analysis.py""")
-    print()
-    print("""     Or open the interactive notebook:
-      → jupyter notebook""")
+    # print()
+    # print("""     Or open the interactive notebook:
+    #   → jupyter notebook""")
 else:
     print("""     Setup finished with issues above." 
       → Fix the errors, then run this script again.""")
