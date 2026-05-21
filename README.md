@@ -78,7 +78,7 @@ python --version
 ```
 Download Python here if needed: https://www.python.org/downloads/
 
-### Step 2 - Get the project files
+### Step 2 - Get the project files 
 Clone the github repo to your local machine
 ```bash
 git clone https://github.com/MoamenMostafa00/Netflix-EDA.git
@@ -90,7 +90,7 @@ Open the project directory on your terminal
 cd beginner-netflix-eda
 ```
 
-### Step 3 — Create a virtual environment
+### Step 3 - Create a virtual environment (Optional)
 A virtual environment keeps this project's libraries separate from everything else on your computer.
 ```bash
 # Create it
