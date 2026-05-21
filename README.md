@@ -65,7 +65,6 @@ Netflix-EDA/
 ├── requirements.txt                ← Python libraries needed
 ├── setup.py                        ← run once to download data & check setup
 ├── run_analysis.py                 ← run this to execute the full project
-├── netflix_analysis.ipynb          ← Jupyter notebook
 └── README.md                       ← this file
 ```
 
