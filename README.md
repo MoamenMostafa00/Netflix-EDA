@@ -1,5 +1,3 @@
-<img src="Netflix-logo.png" alt="Netflix Logo" width="50" align="right">
-
 # Netflix content analysis
 
 > **Project type** | Exploratory Data Analysis & Visualization  
