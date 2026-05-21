@@ -90,24 +90,39 @@ Open the project directory on your terminal
 cd beginner-netflix-eda
 ```
 
-### Step 3 - Install the required libraries
+### Step 3 — Create a virtual environment
+A virtual environment keeps this project's libraries separate from everything else on your computer.
+```bash
+# Create it
+python -m venv venv
+
+# Activate it — Mac/Linux:
+source venv/bin/activate
+
+# Activate it — Windows:
+venv\Scripts\activate
+
+# You'll see (venv) appear in your terminal. That means it worked.
+```
+
+### Step 4 - Install the required libraries
 ```bash
 pip install -r requirements.txt
 # This takes about 1-2 minutes
 ```
 
-### Step 4 - Run setup
+### Step 5 - Run setup
 ```bash
 python setup.py
 ```
 This makes sure the dataset is installed, all necessary directories and files exist, and all necessary libraries are installed
-### Step 5 - Run the full analysis
+### Step 6 - Run the full analysis
 ```bash
 python run_analysis.py
 ```
 This runs everything from start to finish and saves 8 charts to the `outputs/` folder.
 
-### Step 6 - Open the charts
+### Step 7 - Open the charts
 Go into the `outputs/` folder and open any `.png` file to see your charts.
 
 ---
