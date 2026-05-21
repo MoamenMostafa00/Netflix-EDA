@@ -1,4 +1,4 @@
-<img src="Netflix-logo.png" alt="Netflix Logo" width="60" align="left">
+<img src="Netflix-logo.png" alt="Netflix Logo" width="50" align="right">
 
 # Netflix content analysis
 
