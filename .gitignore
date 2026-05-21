@@ -20,6 +20,5 @@ Thumbs.db
 # Generated outputs
 outputs/
 Explanations/
-notebooks/
 docs/
-README.md
+netflix_analysis.ipynb
